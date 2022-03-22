@@ -1,0 +1,36 @@
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1.exe
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1.deps.json
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1.runtimeconfig.json
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1.runtimeconfig.dev.json
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1.dll
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1.pdb
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1.Views.dll
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1.Views.pdb
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.csproj.AssemblyReference.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.AssemblyInfoInputs.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.AssemblyInfo.cs
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.csproj.CoreCompileInputs.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.RazorAssemblyInfo.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.RazorAssemblyInfo.cs
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core 3.1.StaticWebAssets.Manifest.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.TagHelpers.input.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.TagHelpers.output.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.RazorCoreGenerate.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.RazorTargetAssemblyInfo.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.RazorTargetAssemblyInfo.cs
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.Views.pdb
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.dll
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.pdb
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.genruntimeconfig.cache
+C:\Users\cpolydorou\Desktop\ASP.NET Core 3.1\ASP.NET Core 3.1\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1.csproj.CopyComplete
