@@ -1,0 +1,9 @@
+{
+  "name": "nodejs---request-information",
+  "version": "0.0.0",
+  "description": "Nodejs - RequestInformation",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
