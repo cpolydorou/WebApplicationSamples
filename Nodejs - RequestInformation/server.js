@@ -7,6 +7,9 @@ const { isNullOrUndefined } = require('util');
 var port = process.env.PORT || 1337;
 
 http.createServer(function (req, res) {
+    // Update the responce headers
+    res.writeHead(200, { 'Content-Type': 'text/plain' });
+
     // Get the IP of the client
     var ip = req.socket.remoteAddress.toString();
 
