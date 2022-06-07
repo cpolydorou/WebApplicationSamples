@@ -16,7 +16,7 @@ az group create -n [ResourceGroupName] -l [Location]
 ```
 
 ### AppService Deployment
-1. Deploy the [101-Bicep/appService.bicep](https://github.com/cpolydorou/K8sSamples/) file using:
+1. Deploy the [101-Bicep/appService.bicep](https://github.com/cpolydorou/WebApplicationSamples/blob/main/Nodejs%20-%20RequestInformation/101-Bicep/appService.bicep) file using:
 ```bash
 az deployment group create --template-file appService.bicep --resource-group [ResourceGroupName] --parameters location=[Location]
 ```
