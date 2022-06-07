@@ -26,3 +26,6 @@ You have to allow some time to pass following the deployment, since the containe
 
 ## Azure Deployment
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcpolydorou%2FWebApplicationSamples%2Fmain%2FNodejs%2520-%2520RequestInformation%2F101-Bicep%2FappService.json)
+
+## Deployment Status
+![Build Status](https://vsrm.dev.azure.com/christospolydorou/_apis/public/Release/badge/a8001c7b-70d1-4fd4-b4b5-ab1a8bbbc570/5/5)
