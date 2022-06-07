@@ -4,7 +4,7 @@
 var http = require('http');
 var os = require('os');
 const { isNullOrUndefined } = require('util');
-var port = process.env.PORT || 1337;
+var port = process.env.PORT || 80;
 
 http.createServer(function (req, res) {
     // Update the responce headers
