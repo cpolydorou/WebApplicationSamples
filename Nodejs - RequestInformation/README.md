@@ -23,3 +23,6 @@ az deployment group create --template-file appService.bicep --resource-group [Re
 
 ## Important note
 You have to allow some time to pass following the deployment, since the container is being prepared. To check the status of the process go to the "Deployment Center" blade of the AppService and switch to the "Logs" tab.
+
+## Azure Deployment
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcpolydorou%2FWebApplicationSamples%2Fmain%2FNodejs%2520-%2520RequestInformation%2F101-Bicep%2FappService.json)
